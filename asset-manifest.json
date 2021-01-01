@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/kanban-board/static/css/main.f02fa4c7.chunk.css",
-    "main.js": "/kanban-board/static/js/main.6dcc081f.chunk.js",
-    "main.js.map": "/kanban-board/static/js/main.6dcc081f.chunk.js.map",
-    "runtime-main.js": "/kanban-board/static/js/runtime-main.6917396d.js",
-    "runtime-main.js.map": "/kanban-board/static/js/runtime-main.6917396d.js.map",
-    "static/js/2.e90b2a57.chunk.js": "/kanban-board/static/js/2.e90b2a57.chunk.js",
-    "static/js/2.e90b2a57.chunk.js.map": "/kanban-board/static/js/2.e90b2a57.chunk.js.map",
-    "static/js/3.eae66743.chunk.js": "/kanban-board/static/js/3.eae66743.chunk.js",
-    "static/js/3.eae66743.chunk.js.map": "/kanban-board/static/js/3.eae66743.chunk.js.map",
+    "main.js": "/kanban-board/static/js/main.4214afca.chunk.js",
+    "main.js.map": "/kanban-board/static/js/main.4214afca.chunk.js.map",
+    "runtime-main.js": "/kanban-board/static/js/runtime-main.f9064b06.js",
+    "runtime-main.js.map": "/kanban-board/static/js/runtime-main.f9064b06.js.map",
+    "static/js/2.c768467e.chunk.js": "/kanban-board/static/js/2.c768467e.chunk.js",
+    "static/js/2.c768467e.chunk.js.map": "/kanban-board/static/js/2.c768467e.chunk.js.map",
+    "static/js/3.aa68decf.chunk.js": "/kanban-board/static/js/3.aa68decf.chunk.js",
+    "static/js/3.aa68decf.chunk.js.map": "/kanban-board/static/js/3.aa68decf.chunk.js.map",
     "index.html": "/kanban-board/index.html",
     "static/css/main.f02fa4c7.chunk.css.map": "/kanban-board/static/css/main.f02fa4c7.chunk.css.map",
-    "static/js/2.e90b2a57.chunk.js.LICENSE.txt": "/kanban-board/static/js/2.e90b2a57.chunk.js.LICENSE.txt"
+    "static/js/2.c768467e.chunk.js.LICENSE.txt": "/kanban-board/static/js/2.c768467e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6917396d.js",
-    "static/js/2.e90b2a57.chunk.js",
+    "static/js/runtime-main.f9064b06.js",
+    "static/js/2.c768467e.chunk.js",
     "static/css/main.f02fa4c7.chunk.css",
-    "static/js/main.6dcc081f.chunk.js"
+    "static/js/main.4214afca.chunk.js"
   ]
 }
